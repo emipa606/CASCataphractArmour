@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorCataphractBase">
+    <defName>ArmorCataphractArctic</defName>
+    <label>cataphract armor (Arctic)</label>
+    <description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has an arctic camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Arctic/Apparel/CataphractArmorArctic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Arctic_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Arctic/Body/CataphractArmorArctic</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorCataphractBase">
+    <defName>ArmorCataphractDesert</defName>
+    <label>cataphract armor (Desert)</label>
+    <description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a desert camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Desert/Apparel/CataphractArmorDesert</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Desert/Body/CataphractArmorDesert</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorCataphractBase">
+    <defName>ArmorCataphractJungle</defName>
+    <label>cataphract armor (Jungle)</label>
+    <description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a jungle camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Jungle/Apparel/CataphractArmorJungle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Jungle/Body/CataphractArmorJungle</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorCataphractBase">
+    <defName>ArmorCataphractStone</defName>
+    <label>cataphract armor (Stone)</label>
+    <description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a stone camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Stone/Apparel/CataphractArmorStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Stone/Body/CataphractArmorStone</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorCataphractBase">
+    <defName>ArmorCataphractUrban</defName>
+    <label>cataphract armor (Urban)</label>
+    <description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has an urban camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Urban/Apparel/CataphractArmorUrban</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Urban_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Urban/Body/CataphractArmorUrban</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorCataphractBase">
+    <defName>ArmorCataphractWoodland</defName>
+    <label>cataphract armor (Woodland)</label>
+    <description>A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a woodland camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Woodland/Apparel/CataphractArmorWoodland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Woodland_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Woodland/Body/CataphractArmorWoodland</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+</Defs>

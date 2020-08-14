@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorHelmetCataphractBase">
+    <defName>ArmorHelmetCataphractArctic</defName>
+    <label>cataphract helmet (Arctic)</label>
+    <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has an arctic camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Arctic/Apparel/CataphractHelmetArctic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Arctic_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Arctic/Head/CataphractHelmetArctic</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetCataphractBase">
+    <defName>ArmorHelmetCataphractDesert</defName>
+    <label>cataphract helmet (Desert)</label>
+    <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a desert camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Desert/Apparel/CataphractHelmetDesert</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Desert/Head/CataphractHelmetDesert</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetCataphractBase">
+    <defName>ArmorHelmetCataphractJungle</defName>
+    <label>cataphract helmet (Jungle)</label>
+    <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a jungle camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Jungle/Apparel/CataphractHelmetJungle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Jungle/Head/CataphractHelmetJungle</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetCataphractBase">
+    <defName>ArmorHelmetCataphractStone</defName>
+    <label>cataphract helmet (Stone)</label>
+    <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a stone camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Stone/Apparel/CataphractHelmetStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Stone/Head/CataphractHelmetStone</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetCataphractBase">
+    <defName>ArmorHelmetCataphractUrban</defName>
+    <label>cataphract helmet (Urban)</label>
+    <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has an urban camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Urban/Apparel/ReconHelmetUrban</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Urban_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Urban/Head/CataphractHelmetUrban</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetCataphractBase">
+    <defName>ArmorHelmetCataphractWoodland</defName>
+    <label>cataphract helmet (Woodland)</label>
+    <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has a woodland camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/CataphractArm/Woodland/Apparel/CataphractHelmetWoodland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Woodland_High</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/CataphractArm/Woodland/Head/CataphractHelmetWoodland</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <!--<colorGenerator Inherit="false"/>-->
+  </ThingDef>
+</Defs>
