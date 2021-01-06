@@ -85,7 +85,7 @@
     <label>cataphract helmet (Urban)</label>
     <description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. This armour has an urban camo pattern.</description>
     <graphicData>
-      <texPath>Things/Item/ReconArm/Urban/Apparel/ReconHelmetUrban</texPath>
+      <texPath>Things/Item/CataphractArm/Urban/Apparel/CataphractHelmetUrban</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
